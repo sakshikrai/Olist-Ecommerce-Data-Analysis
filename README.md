@@ -19,9 +19,6 @@ The objective of this project was to clean, transform, and model this large data
 4. **Regional Order Value:** Extracted the average item price and average payment value specifically for customers located in São Paulo.
 5. **Customer Satisfaction:** Mapped the direct relationship between the number of shipping days and the resulting customer review scores.
 
-## 📸 Dashboard Preview
-*(Note: Drag and drop your screenshot image here when editing on GitHub)*
-
 ## 💡 Key Business Insights
 * **Faster Delivery Drives Perfect Ratings:** The data reveals a perfect negative correlation between shipping time and customer satisfaction. 1-star reviews averaged over 21 days for delivery, while 5-star reviews averaged just 10.6 days.
 * **Revenue is Weekday-Heavy:** A massive ~77% of all payment value (11.9M) is processed on weekdays compared to just ~23% (3.5M) on weekends, suggesting marketing ad spend should be heavily weighted toward Monday-Friday.
